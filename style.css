@@ -17,7 +17,9 @@ a:hover {
     text-decoration: none;
     cursor: pointer;
 }
-
+footer p {
+    font-weight: lighter !important;
+}
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -742,6 +744,7 @@ h4 {
     color: #212121 !important;
     font-weight: bold;
 }
+
 
 .portfolio-thumb {
     margin-bottom: 24px;
