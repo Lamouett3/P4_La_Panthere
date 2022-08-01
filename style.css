@@ -322,6 +322,10 @@ footer p {
     margin-right: -16px;
     float: right;
     z-index: 1;
+    list-style-type: none;
+}
+.navbar a {
+    text-decoration: none;
 }
 
 .nav > li {
