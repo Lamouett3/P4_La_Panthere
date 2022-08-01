@@ -30,6 +30,15 @@ footer p {
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 
+                /* PAGE 2 CONTACT */
+
+.contact-box {
+    display: flex;
+    width: 50%;
+    margin: auto;
+}
+
+                /* PAGE 2 CONTACT */
 .bloc {
     width: 100%;
     clear: both;
@@ -514,6 +523,9 @@ button {
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
+    border-radius: 5px;
+    height: 35px;
+    display: flex;
 }
 
 .scrollToTop {
