@@ -105,6 +105,12 @@ sub {
 img {
     border: 0
 }
+@media (max-width: 767px) {
+    img {
+    margin: auto;
+    max-width: 57% !important;
+    }
+}
 
 svg:not(:root) {
     overflow: hidden
