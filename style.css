@@ -34,7 +34,7 @@ footer p {
 
 .contact-box {
     display: flex;
-    width: 50%;
+    width: 80%;
     margin: auto;
 }
 
@@ -525,6 +525,7 @@ button {
     box-shadow: none;
     border-radius: 5px;
     height: 35px;
+    width: 70%;
     display: flex;
 }
 
