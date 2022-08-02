@@ -30,7 +30,7 @@ footer p {
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 
-                /* PAGE 2 CONTACT */
+                /* PAGE 2  */
 
 .contact-box {
     display: flex;
@@ -38,7 +38,7 @@ footer p {
     margin: auto;
 }
 
-                /* PAGE 2 CONTACT */
+                /* PAGE 2  */
 .bloc {
     width: 100%;
     clear: both;
@@ -103,7 +103,6 @@ footer p {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
     background-size: 280px 280px;
 }
 
