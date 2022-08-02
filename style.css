@@ -31,6 +31,9 @@ footer p {
 }
 
                 /* PAGE 2  */
+.text-center {
+    text-align: center;
+}
 
 .contact-box {
     display: flex;
@@ -678,6 +681,7 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
+    font-weight: revert;
 }
 
 .hero-bloc-text-sub {
