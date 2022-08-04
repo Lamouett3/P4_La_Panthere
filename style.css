@@ -40,10 +40,6 @@ footer p {
     width: 80%;
     margin: auto;
 }
-:required {
-    background-color: #F3976C;
-    display: none;
-}
 
                 /* PAGE 2  */
 .bloc {
