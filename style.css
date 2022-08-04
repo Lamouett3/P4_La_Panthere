@@ -31,9 +31,6 @@ footer p {
 }
 
                 /* PAGE 2  */
-.text-center {
-    text-align: center;
-}
 
 .contact-box {
     display: flex;
@@ -767,7 +764,10 @@ h4 {
     color: #212121 !important;
     font-weight: bold;
 }
-
+.black {
+    color: #212121 !important;
+    font-weight: lighter;
+}
 
 .portfolio-thumb {
     margin-bottom: 24px;
