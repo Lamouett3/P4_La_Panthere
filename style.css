@@ -843,19 +843,19 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("img_webp/dots-bg_resultat.webp");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("img_webp/lines-h2-bg_resultat.webp");
 }
 
 .bg-banniere {
-    background-image: url("img/agence-la-panthere.jpg");
+    background-image: url("img_webp/agence-la-panthere_resultat.webp");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img_webp/image-de-presentation_resultat.webp");
 }
 
 @media (max-width: 1024px) {
