@@ -924,7 +924,7 @@ h4 {
 
 @media (max-width: 767px) {
     .tight-width-whitespace img {
-        max-width: 55%;
+        max-width: 60%;
         margin: auto;
     }
     .page-container {
