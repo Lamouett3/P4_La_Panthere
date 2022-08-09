@@ -39,6 +39,9 @@ footer p {
 }
 
                 /* PAGE 2  */
+.social_box {
+    height: 50px;
+}
 .bloc {
     width: 100%;
     clear: both;
