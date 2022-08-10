@@ -319,6 +319,8 @@ footer p {
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
+    width: 50%;
+    height: 100%;
 }
 
 .navbar-brand img[src$=svg] {
@@ -1010,7 +1012,7 @@ h4 {
     }
     .navbar-brand img {
         max-height: 40px;
-        width: auto;
+        width: 100%;
     }
     .nav-invert .navbar-header {
         float: none;
