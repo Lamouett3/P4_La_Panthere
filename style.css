@@ -660,7 +660,14 @@ a[data-lightbox]:hover img {
     background: none;
     text-align: center;
 }
+@media (max-width: 767px){
 
+.snapshot-lb .lightbox-caption {
+    margin: auto;
+    margin-bottom: 1%;
+    font-size: revert;
+}
+}
 h1,
 h2,
 h3,
