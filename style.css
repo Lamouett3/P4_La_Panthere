@@ -716,8 +716,8 @@ p {
 }
 
 .tight-width-whitespace {
-    max-width: 600px;
-    margin: auto auto auto auto;
+    max-width: 940px;
+    margin: auto;
 }
 
 .h1 {
@@ -799,6 +799,8 @@ h4 {
 .black-background {
     background-color: rgba(165, 147, 99, 0.7);
     padding: 40px 40px 40px 40px;
+    max-width: 90%;
+    margin: auto;
 }
 
 .bold-link {
